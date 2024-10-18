@@ -34,7 +34,7 @@ GPIO pins 18, 17, 10, 25 are for buttons 1, 2, 3, 4 accordingly, pins 24, 27, 23
 
 3. Copy <kbd>buildroot/output/images/Image</kbd> to the first partition:
 
-<kbd>cp Image /tmp/d/Image</kbd>
+<kbd>cp Image /tmp/d/Image</kbd> <kbd>sync</kbd>
 
 4. Unmount the partition:
 
