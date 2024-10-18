@@ -14,6 +14,7 @@ Features:
 - [ ] 4 diodes
 - [ ] 4 buttons
 - [ ] A PC with Linux system that can run Buildroot
+- [ ] At least 8 GiB of free storage
 
 GPIO pins 18, 17, 10, 25 are for buttons 1, 2, 3, 4 accordingly, pins 24, 27, 23, 22 are for diodes, the pin 26 is for the motion detector's output and the pin 21 is for the buzzer.
 
