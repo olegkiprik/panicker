@@ -1,3 +1,4 @@
+/* An application that listens to alerts */
 #define _GNU_SOURCE
 #include <signal.h>
 #include <stdlib.h>
