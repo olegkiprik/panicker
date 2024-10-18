@@ -3,17 +3,17 @@
 A simple integrated system for alerting of an unauthorized physical intrusion.
 
 Features:
-[ ] Switch to the calm mode by entering a password
-[ ] Report to another device through network
+- [ ] Switch to the calm mode by entering a password
+- [ ] Report to another device through network
 
 ## Required items
 
-[ ] Raspberry Pi 4b
-[ ] Motion detector
-[ ] Buzzer
-[ ] 4 diodes
-[ ] 4 buttons
-[ ] A PC with Linux system that can run Buildroot
+- [ ] Raspberry Pi 4b
+- [ ] Motion detector
+- [ ] Buzzer
+- [ ] 4 diodes
+- [ ] 4 buttons
+- [ ] A PC with Linux system that can run Buildroot
 *TODO: details, blueprints*
 
 ## Installation
