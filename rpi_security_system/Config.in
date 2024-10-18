@@ -1,0 +1,5 @@
+config BR2_PACKAGE_RPI_SECURITY_SYSTEM
+	bool "rpi_security_system"
+	depends on BR2_PACKAGE_C_PERIPHERY
+	help
+	  An application for protection from thieves
