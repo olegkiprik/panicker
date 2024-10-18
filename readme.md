@@ -1,5 +1,7 @@
 # The Guard on Raspberry Pi 4b
 
+![Image 0](demo.jpg)
+
 A simple integrated system for alerting of an unauthorized physical intrusion.
 
 Features:
